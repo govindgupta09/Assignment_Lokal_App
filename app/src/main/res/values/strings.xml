@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lokal</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="stock">Stock</string>
+    <string name="_3_800_usd">$ 3,800 USD</string>
+    <string name="discountpercentage">+2.5%</string>
+    <string name="ratings">3</string>
+    <string name="stars">Stars</string>
+    <string name="category">Category</string>
+    <string name="brand">Brand</string>
+</resources>

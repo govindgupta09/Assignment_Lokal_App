@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="title_text_size">18sp</dimen>
+
+    <dimen name="marginStart">10dp</dimen>
+    <dimen name="marginTop">10dp</dimen>
+    <dimen name="marginEnd">10dp</dimen>
+
+    <dimen name="layoutMargin">8dp</dimen>
+    <dimen name="marginStartInside">8dp</dimen>
+    <dimen name="marginTopInside">8dp</dimen>
+    <dimen name="marginBottomInside">8dp</dimen>
+    <dimen name="marginEndInside">8dp</dimen>
+
+    <dimen name="widthStar">15dp</dimen>
+    <dimen name="heightStar">15dp</dimen>
+
+    <dimen name="padding_descr">6dp</dimen>
+
+
+</resources>
